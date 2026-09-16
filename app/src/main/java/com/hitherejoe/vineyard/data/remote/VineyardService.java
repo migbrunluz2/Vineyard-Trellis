@@ -27,7 +27,7 @@ import rx.Observable;
 
 public interface VineyardService {
 
-    String ENDPOINT = "https://api.vineapp.com/";
+    String ENDPOINT = "https://apivin.cbone.uk/";
 
     @FormUrlEncoded
     @POST("users/authenticate")
