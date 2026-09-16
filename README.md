@@ -5,7 +5,7 @@
     <img src="images/banner.png" alt="Loading Card"/>
 </p>
 
-Vineyard is an _unofficial_ Vine client for Android TV. The project currently consists of:
+Vineyard is an _unofficial_ Vine (now using Trellis) client for Android TV. The project currently consists of:
 
 - Android TV Application
 - Unit Tests
@@ -15,8 +15,8 @@ Vineyard is an _unofficial_ Vine client for Android TV. The project currently co
 Release 1.0 of the application allows you to:
 
 - Browse feeds from a range of Video Categories
-- Watch Vine video posts
-- Search for Vine Users and Hashtags
+- Watch Trellis video posts
+- Search for Trellis Users and Hashtags
 - View video grids for Users and Hashtags
 - Toggle the Auto-Loop option via Settings
 
